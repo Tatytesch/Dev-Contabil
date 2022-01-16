@@ -181,7 +181,7 @@ li {
 }
 
 .caixa-inferior {
-    background-color: hsl(27, 100%, 28%);
+    background-color: hsl(27, 90%, 62%);
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -189,33 +189,8 @@ li {
 }
 
 #titulo-inferior {
-    color: #FFFFFF;
-    font-size: 40px;
-    font-weight: bold;
-    margin-left: 25px;
-    padding-top: 10px;
-    
-}
-
-.paragrafo-inferior {
-    color: #FFFFFF;
-    font-size: 18px;
-    font-weight: normal;
-    text-align: justify;
-    padding: 20px 50px 5px 50px;
-    
-}
-
-.paragrafo-contato {
-    display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 40px;
-    font-weight: bold;
-}
-
-.contato {
-    color: white;
-    font-size: 25px;
+    color: #572d07;
+    font-size: 30px;
     font-weight: normal;
     margin-left: 25px;
     padding-top: 10px;
@@ -223,31 +198,61 @@ li {
     font-weight: bold;
 }
 
+.paragrafo-inferior {
+    color: #572d07;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: justify;
+    padding: 20px 50px 5px 50px;
+    
+}
+
+.paragrafo-contato {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 50px;
+    font-weight: bold;
+    justify-content: space-between;
+}
+
+.contato {
+    color: #572d07;
+    font-size: 30px;
+    margin-left: 25px;
+    padding-top: 10px;
+    margin-bottom: 12px;
+    font-weight: bold;
+   
+}
+
 .tel-endereco {
-    color: white;
+    color: #572d07;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: bold;
     padding-bottom: 15px;
    
 }
 
 .tel-tel {
-    color: white;
+    color: #572d07;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: bold;
     padding-bottom: 15px;
    
 }
 
 .tel-e-mail {
-    color: white;
+    color: #572d07;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: bold;
     padding-bottom: 15px;
  }
 
 .fundo {
-    background-color: hsl(27, 100%, 28%);
+    background-color: hsl(27, 90%, 62%);
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 5px;
